@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/jakegilla/_Projects/Sites/pdr-site/quickstart",
+	"sourceRoot": "/Users/jakegilla/_Projects/Sites/pdr-site",
 	"sources": [
 		"ananke/css/main.css"
 	],
